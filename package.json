@@ -1,0 +1,19 @@
+{
+  "name": "@thefrontend/prettier",
+  "version": "1.0.0",
+  "description": "Prettier config for the frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Shepherd",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontendfoo/thefrontend-prettier.git"
+  },
+  "bugs": {
+    "url": "https://github.com/frontendfoo/thefrontend-prettier/issues"
+  },
+  "homepage": "https://github.com/frontendfoo/thefrontend-prettier#readme"
+}
